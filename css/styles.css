@@ -1,3 +1,14 @@
+
+body {
+font-family: 'Roboto', sans-serif;
+}
+
+ul { list-style: none;}
+
+a { text-decoration: none; }
+
+.adress { font-style: normal;}
+
 .header-logo {
     color: #2E2F42;
     font-family: Raleway;
@@ -35,3 +46,81 @@ font-weight: 400;
 line-height: 24px; /* 150% */
 
 }   
+
+.section-effect {
+    background: #2E2F42;
+}
+.main-effect {
+    color:#FFF;
+text-align: center;
+font-family: Roboto;
+font-size: 56px;
+font-style: normal;
+font-weight: 700;
+line-height: 60px; /* 107.143% */
+}
+.button {
+    color: #FFF;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; /* 150% */
+border-radius: 4px;
+background:#4D5AE5;
+box-shadow: 0px 4px 4px 0px
+
+}
+.title {
+    color:#2E2F42;
+text-align: center;
+font-family: Roboto;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 40px; /* 111.111% */
+
+}
+.title-item {
+    color: #2E2F42;
+text-align: center;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+
+}
+.list-text {
+    color: #434455;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+
+}
+
+.Our-Team {
+    background:#F4F4FD;
+}
+
+.footer {
+background: #2E2F42;
+}
+.footer-logo {
+    color: #F4F4FD;
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 21px; /* 116.667% */
+
+}
+
+.footer-text {
+    color: #F4F4FD;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+
+}
