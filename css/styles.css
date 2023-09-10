@@ -1,6 +1,8 @@
 
 body {
 font-family: 'Roboto', sans-serif;
+font-family: 'Sen', sans-serif;
+font-family: 'Raleway', sans-serif;
 }
 
 ul { list-style: none;}
@@ -16,6 +18,8 @@ a { text-decoration: none; }
     font-style: normal;
     font-weight: 700;
     line-height: 21px; /* 116.667% */
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
 
 }
 .header-logo-web {
@@ -25,7 +29,8 @@ font-size: 18px;
 font-style: normal;
 font-weight: 700;
 line-height: 21px; /* 116.667% */
-
+letter-spacing: 0.54px;
+text-transform: uppercase;
 }
 .nav-link {
     color: #2E2F42;
@@ -58,6 +63,7 @@ font-size: 56px;
 font-style: normal;
 font-weight: 700;
 line-height: 60px; /* 107.143% */
+letter-spacing: 1.12px;
 }
 .button {
     color: #FFF;
@@ -124,3 +130,4 @@ font-style: normal;
 font-weight: 400;
 
 }
+
