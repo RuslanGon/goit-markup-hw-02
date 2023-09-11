@@ -84,6 +84,11 @@ cursor: pointer;
     color: #404BBF;
 }
 
+.contaks-link:hover,
+.contaks-link:focus {
+    color: #404BBF;
+}
+
 .title {
     color: #2E2F42;
     text-align: center;
