@@ -13,7 +13,7 @@ a { text-decoration: none; }
 
 .header-logo {
     color: #4D5AE5;
-    font-family: Raleway;
+    font-family: Raleway,sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
@@ -23,13 +23,6 @@ a { text-decoration: none; }
 }
 .header-logo-web {
     color: #2E2F42;
-font-family: Raleway;
-font-size: 18px;
-font-style: normal;
-font-weight: 700;
-line-height: 21px; /* 116.667% */
-letter-spacing: 0.54px;
-text-transform: uppercase;
 }
 .nav-link {
     color: #2E2F42;
@@ -122,6 +115,8 @@ cursor: pointer;
 .our-team {
     background-color:#F4F4FD;
 }
+
+.team-list { background-color: #FFFFFF; }
 
 .footer {
 background: #2E2F42;
