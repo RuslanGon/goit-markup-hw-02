@@ -28,7 +28,7 @@ a { text-decoration: none; }
     color: #2E2F42;
     font-size: 16px;
     font-weight: 500;
-    line-height: 1,5; 
+    line-height: 1.5; 
     letter-spacing: 0.32px;
 
 }
@@ -36,7 +36,7 @@ a { text-decoration: none; }
 .contaks-link {
     color: #434455;
     font-size: 16px;
-    line-height: 1,5; 
+    line-height: 1.5; 
     letter-spacing: 0.32px;
 
 }   
@@ -95,14 +95,14 @@ cursor: pointer;
     color:#2E2F42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1,2; 
+    line-height: 1.2; 
     letter-spacing: 0.4px;
 
 }
 .list-text {
     color:#434455;
     font-size: 16px;
-    line-height: 1,5; 
+    line-height: 1.5; 
     letter-spacing: 0.32px;
 }
 
@@ -124,7 +124,7 @@ background: #2E2F42;
 .footer-text {
     color: #F4F4FD;
     font-size: 16px;
-    line-height: 1,5; 
+    line-height: 1.5; 
     letter-spacing: 0.32px;
 }
 
