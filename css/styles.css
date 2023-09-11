@@ -79,12 +79,9 @@ cursor: pointer;
 .title {
     color: #2E2F42;
     text-align: center;
-    /* Header 2 */
-    font-family: Roboto;
     font-size: 36px;
-    font-style: normal;
     font-weight: 700;
-    line-height: 40px; /* 111.111% */
+    line-height: 1.11; 
     letter-spacing: 0.72px;
     text-transform: capitalize;
 }
@@ -92,10 +89,7 @@ cursor: pointer;
 
 .title-item-text {
     color:#2E2F42;
-    /* Header 3 */
-    font-family: Roboto;
     font-size: 20px;
-    font-style: normal;
     font-weight: 500;
     line-height: 24px; /* 120% */
     letter-spacing: 0.4px;
@@ -103,10 +97,7 @@ cursor: pointer;
 }
 .list-text {
     color:#434455;
-    /* Body */
-    font-family: Roboto;
     font-size: 16px;
-    font-style: normal;
     font-weight: 400;
     line-height: 24px; /* 150% */
     letter-spacing: 0.32px;
@@ -116,7 +107,7 @@ cursor: pointer;
     background-color:#F4F4FD;
 }
 
-.team-list { background-color: #FFFFFF; }
+.tteam-item { background-color: #FFFFFF; }
 
 .footer {
 background: #2E2F42;
@@ -135,10 +126,7 @@ text-transform: uppercase;
 
 .footer-text {
     color: #F4F4FD;
-    /* Body */
-    font-family: Roboto;
     font-size: 16px;
-    font-style: normal;
     font-weight: 400;
     line-height: 24px; /* 150% */
     letter-spacing: 0.32px;
