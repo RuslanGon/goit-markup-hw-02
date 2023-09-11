@@ -73,6 +73,12 @@ background:#4D5AE5;
 cursor: pointer;
 
 }
+
+.button-text:hover,
+.button-text:focus {
+    color: #FFF;
+    background-color: #404bbf;
+}
 .title {
     color: #2E2F42;
     text-align: center;
