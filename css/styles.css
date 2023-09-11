@@ -79,6 +79,11 @@ cursor: pointer;
     background-color: #404BBF;
 }
 
+.nav-link:hover,
+.nav-link:focus {
+    color: #404BBF;
+}
+
 .title {
     color: #2E2F42;
     text-align: center;
