@@ -1,9 +1,7 @@
 
 body {
 font-family: 'Roboto', sans-serif;
-font-family: 'Sen', sans-serif;
-font-family: 'Raleway', sans-serif;
-background: #FFF;
+background-color: #FFF;
 color: #434455 ;
 }
 
@@ -98,9 +96,6 @@ cursor: pointer;
     text-transform: capitalize;
 }
 
-.team-list {
-background-color:  #FFFFFF;
-}
 
 .title-item-text {
     color:#2E2F42;
@@ -125,7 +120,7 @@ background-color:  #FFFFFF;
 }
 
 .our-team {
-    background:#F4F4FD;
+    background-color:#F4F4FD;
 }
 
 .footer {
